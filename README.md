@@ -13,5 +13,5 @@ Given an N by N matrix, rotate it by 90 degrees clockwise.
     [[7, 4, 1],
      [8, 5, 2],
      [9, 6, 3]]
-     
-    Follow-up: What if you couldn't use any extra space?
+   
+Follow-up: What if you couldn't use any extra space?
